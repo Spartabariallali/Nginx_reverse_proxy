@@ -28,3 +28,6 @@ echo "server{
 sudo ln -s /etc/nginx/sites-available/reverse-proxy.conf /etc/nginx/sites-enabled/reverse-proxy.conf
 sudo service nginx restar
 ```
+- The first line of code navigates to and removes the default file which establishes the default connection
+- We then recreate the default file using touch - in my case I have named it reverse-proxy.conf
+- The following line of code establish the writes of the file in our case we giving the file read and write privileges but not executable.
