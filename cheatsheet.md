@@ -42,7 +42,7 @@
 - ``` env ``` --> Shows all the Environment Variables
 - ``` name ="Andrew" ```
 - ``` echo $name ``` --> Displaying the value of the variable
-- ``` export name ="Andrew" ``` --> Making name an Environment Variable
+- ``` export name ="Bari Allali" ``` --> Making name an Environment Variable
 
 ---
 ### Bash Script Commands

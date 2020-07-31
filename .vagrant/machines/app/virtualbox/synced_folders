@@ -1,1 +1,0 @@
-{"virtualbox":{"/home/ubuntu/app":{"guestpath":"/home/ubuntu/app","hostpath":"/Users/iAllali/Desktop/vagrant_solution/solution-code-environment-vars/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/iAllali/Desktop/vagrant_solution/solution-code-environment-vars","disabled":false,"__vagrantfile":true}}}
