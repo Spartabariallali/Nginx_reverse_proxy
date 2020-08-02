@@ -53,3 +53,4 @@ http://development.local/
 http://development.local/posts
 http://development.local/fibonacci/7
 ```
+More information regarding `vagrant` can be found [HERE](https://github.com/Spartabariallali/Spartarepo/tree/master/vagrant_notes)
