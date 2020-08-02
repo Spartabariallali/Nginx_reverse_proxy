@@ -35,6 +35,7 @@ sudo service nginx restart
 ### Instructions to run the application 
  - After downloading the contents of this repository
  - Navigate to the location of the directory you have saved the files to using `Terminal`
+ - In my case it would be:
  ```bash
 cd /Users/iAllali/Desktop/vagrant_solution/solution-code-environment-vars
  ```
