@@ -26,8 +26,29 @@ echo "server{
   }
 }" >> reverse-proxy.conf
 sudo ln -s /etc/nginx/sites-available/reverse-proxy.conf /etc/nginx/sites-enabled/reverse-proxy.conf
-sudo service nginx restar
+sudo service nginx restart
 ```
 - The first line of code navigates to and removes the default file which establishes the default connection
 - We then recreate the default file using touch - in my case I have named it reverse-proxy.conf
 - The following line of code establish the writes of the file in our case we giving the file read and write privileges but not executable.
+
+###Instructions to run the application 
+ - After downloading the contents of this repository
+ - Navigate to the location of the directory you have saved the files to using `Terminal`
+ ```bash
+cd /Users/iAllali/Desktop/vagrant_solution/solution-code-environment-vars
+ ```
+- Upon running the `ls` command, you should find the contents of the directory 
+```bash
+vagrantfile
+```
+- At this stage you are ready to run the app, simply type the following command:
+```bash
+vagrant up
+```
+- Lastly, navigate to the web browser and input these links:
+```bash
+http://development.local/
+http://development.local/posts
+http://development.local/fibonacci/7
+```
