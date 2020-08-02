@@ -32,13 +32,13 @@ sudo service nginx restart
 - We then recreate the default file using touch - in my case I have named it reverse-proxy.conf
 - The following line of code establish the writes of the file in our case we giving the file read and write privileges but not executable.
 
-###Instructions to run the application 
+### Instructions to run the application 
  - After downloading the contents of this repository
  - Navigate to the location of the directory you have saved the files to using `Terminal`
  ```bash
 cd /Users/iAllali/Desktop/vagrant_solution/solution-code-environment-vars
  ```
-- Upon running the `ls` command, you should find the contents of the directory 
+- Upon running the `ls` command, you should find the contents of the directory including the following file:
 ```bash
 vagrantfile
 ```
