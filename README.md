@@ -49,7 +49,7 @@
 - There are many ways to do this, but for simplicity we will choose to manually download the files from github as a zip folder.
 
 
-### 1. Scroll to the top of this repo and click the code button
+### 1. Scroll to the top of this repo and click the `code` button
 
 ![Top of repo](imagesmd/allfiles.jpeg)
 
@@ -78,7 +78,10 @@ click the `Code` button (green) on the top right hands side of the screen
 ```bash
 cd /Users/iAllali/Desktop/vagrant_solution/solution-code-environment-vars
 ```
-- Upon running the `ls` command, you should find the contents of the directory including the following file:
+- Upon running the `ls` command you should see a list of all the files in the directory.
+![directory content](imagesmd/directorycontents.jpeg)
+
+- We can see we are in the correct location because the following file is listed:
 ```bash
 vagrantfile
 ```
