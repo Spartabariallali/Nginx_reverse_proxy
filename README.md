@@ -7,7 +7,7 @@
 ```
 ---
 
-### Prerequisites
+### Prerequisites ***----> Please ensure you download the software relevant to your OS <----***
 - `Ruby` [download here](https://www.ruby-lang.org/en/downloads/)
 - `Bundler` [download here](https://bundler.io/)
 - `virtualBox` [download here](https://www.virtualbox.org/wiki/Downloads)
@@ -72,7 +72,7 @@ click the `Code` button (green) on the top right hands side of the screen
 #### Navigating to the files directory using Terminal
 - Its imperative you remember the path to the folder where you have Unzipped the contents of the repo
 - In the example below, I give the full path of where the directory is located on my machine.
-- In order to navigate there I type the command `cd` followed by the full path 
+- In order to navigate there I type the command `cd` followed by the full path
 ```bash
 cd /Users/iAllali/Desktop/vagrant_solution/solution-code-environment-vars
 ```
