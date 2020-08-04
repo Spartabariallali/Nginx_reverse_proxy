@@ -49,14 +49,14 @@
 - There are many ways to do this, but for simplicity we will choose to manually download the files from github as a zip folder.
 
 
-1. Scroll to the top of this repo and click the code button
+### 1. Scroll to the top of this repo and click the code button
 
 ![Top of repo](imagesmd/allfiles.jpeg)
 
 click the `Code` button (green) on the top right hands side of the screen
 
 
-2. Upon pressing the `Code` button you will be prompted with a dropdown menu
+### 2. Upon pressing the `Code` button you will be prompted with a dropdown menu
    Navigate to `Download ZIP` and this will download all the files on this repo to your local system
 
 ![Code button](imagesmd/codebutton.jpeg)
