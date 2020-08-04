@@ -48,9 +48,9 @@
 
 
 1. Scroll to the top of this repo and click the code button
-![Top of repo](imagesmd/Screenshot 2020-08-04 at 18.45.33.png)
+![Top of repo](imagesmd/allfiles.jpeg)
 click the `Code` button
 
 
 2. Navigate to download `Download ZIP`
-[Code button](imagesmd/Screenshot 2020-08-04 at 18.45.png)
+![Code button](imagesmd/codebutton.jpeg)
