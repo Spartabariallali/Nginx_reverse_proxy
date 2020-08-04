@@ -13,7 +13,7 @@
 - `virtualBox` [download here](https://www.virtualbox.org/wiki/Downloads)
 - `Vagrant` [download here](https://www.vagrantup.com/downloads)
 
-***Please ensure you download the software relevant to your OS***
+### ***Please ensure you download the software relevant to your OS***
 
 #### Checking Prerequisites are installed
 
