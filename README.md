@@ -48,9 +48,46 @@
 
 
 1. Scroll to the top of this repo and click the code button
+
 ![Top of repo](imagesmd/allfiles.jpeg)
-click the `Code` button
+
+click the `Code` button (green) on the top right hands side of the screen
 
 
-2. Navigate to download `Download ZIP`
+2. Upon pressing the `Code` button you will be prompted with a dropdown menu
+   Navigate to `Download ZIP` and this will download all the files on this repo to your local system
+
 ![Code button](imagesmd/codebutton.jpeg)
+
+
+
+### ***----> Please take note of where these files are saved <----***
+
+---
+
+### Running the Application
+- We are nearly there!
+- Now that you have the files on your system we need to activate the use of the `Terminal`
+
+#### Navigating to the files directory using Terminal
+- Its imperative you remember the path to the folder where you have Unzipped the contents of the repo
+- In the example below, I give the full path of where the directory is located on my machine.
+- In order to navigate there I type the command `cd` followed by the full path 
+```bash
+cd /Users/iAllali/Desktop/vagrant_solution/solution-code-environment-vars
+```
+- Upon running the `ls` command, you should find the contents of the directory including the following file:
+```bash
+vagrantfile
+```
+- At this stage you are ready to run the app, simply type the following command:
+```bash
+vagrant up
+```
+- Lastly, navigate to the web browser and input these links:
+```bash
+http://development.local/
+http://development.local/posts
+http://development.local/fibonacci/7
+```
+More information regarding `vagrant` can be found [HERE](https://github.com/Spartabariallali/Spartarepo/tree/master/vagrant_notes)
