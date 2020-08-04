@@ -7,7 +7,7 @@
 ```
 ---
 
-### Prerequisites ***----> Please ensure you download the software relevant to your OS <----***
+### Prerequisites ***Please ensure you download the software relevant to your OS***
 - `Ruby` [download here](https://www.ruby-lang.org/en/downloads/)
 - `Bundler` [download here](https://bundler.io/)
 - `virtualBox` [download here](https://www.virtualbox.org/wiki/Downloads)
