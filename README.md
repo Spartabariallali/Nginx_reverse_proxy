@@ -18,28 +18,28 @@
 #### Checking Prerequisites are installed
 
 - Ruby
-
-`ruby --version`
-
-`ruby 2.6.3p62 (2019-04-16 revision 67580) [universal.x86_64-darwin19]`
+```bash
+ruby --version
+ruby 2.6.3p62 (2019-04-16 revision 67580) [universal.x86_64-darwin19]
+```
 
 - Bundler
-
-`bundler --version`
-
-`Bundler version 2.1.4`
+```bash
+bundler --version
+Bundler version 2.1.4
+```
 
 - VirtualBox
-
-`virtualbox`
-
-`Should open the Virtualbox Manager`
+```bash
+virtualbox
+Should open the Virtualbox Manager
+```
 
 - Vagrant
-
-`vagrant --version`
-
-`Vagrant 2.2.7`
+``` bash 
+vagrant --version
+Vagrant 2.2.7
+```
 
 ---
 

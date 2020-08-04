@@ -22,13 +22,6 @@ def set_env vars
 end
 
 
-
-
-
-
-
-
-
 Vagrant.configure("2") do |config|
  config.vm.define "db" do |db|
     db.vm.box = "ubuntu/xenial64"
@@ -47,9 +40,3 @@ Vagrant.configure("2") do |config|
     app.vm.provision "shell", inline: set_env({ DB_HOST: "mongodb://192.168.10.150:27017/posts" }), privileged: false
   end
 end
-
-  
-
-
-
-  
